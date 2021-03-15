@@ -1,0 +1,17 @@
+{
+  "name": "starbot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arda",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "discord.js": "^12.5.1",
+    "moment": "^2.29.1",
+    "wio.db": "^4.0.15"
+  }
+}
